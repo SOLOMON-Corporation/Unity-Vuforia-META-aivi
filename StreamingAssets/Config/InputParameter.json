@@ -1,0 +1,103 @@
+{"DataStation":[
+  {
+    "StationName": "Station1",
+    "Datastage": [
+      {
+        "StageName": "140M-C2",
+        "Agrs": {
+          "Order": 2,
+          "MarginX": 0.29,
+          "MarginY": 0.39,
+          "foreground2backgroundRatio": 0.9,
+          "ObjectH": 9
+        }
+      },
+      {
+        "StageName": "100-C_main",
+        "Agrs": {
+          "Order": 1,
+          "MarginX": 0.29,
+          "MarginY": 0.39,
+          "foreground2backgroundRatio": 0.9,
+          "ObjectH": 9
+        }
+      },
+      {
+        "StageName": "Stage3",
+        "Agrs": {
+          "Order": 3,
+          "MarginX": 0.29,
+          "MarginY": 0.39,
+          "foreground2backgroundRatio": 0.9,
+          "ObjectH": 9
+        }
+      }
+    ]
+  },
+  {
+    "StationName": "StationUS",
+    "Datastage": [
+      {
+        "StageName": "front.lower",
+        "Agrs": {
+          "Order": 1,
+          "MarginX": 0.29,
+          "MarginY": 0.39,
+          "foreground2backgroundRatio": 0.9,
+          "ObjectH": 9
+        }
+      },
+      {
+        "StageName": "BtnEmergency",
+        "Agrs": {
+          "Order": 2,
+          "MarginX": 0.29,
+          "MarginY": 0.39,
+          "foreground2backgroundRatio": 0.9,
+          "ObjectH": 9
+        }
+      },
+      {
+        "StageName": "BtnLocalRemote",
+        "Agrs": {
+          "Order": 3,
+          "MarginX": 0.29,
+          "MarginY": 0.39,
+          "foreground2backgroundRatio": 0.9,
+          "ObjectH": 9
+        }
+      },
+      {
+        "StageName": "BtnPurge",
+        "Agrs": {
+          "Order": 4,
+          "MarginX": 0.29,
+          "MarginY": 0.39,
+          "foreground2backgroundRatio": 0.9,
+          "ObjectH": 9
+        }
+      },
+      {
+        "StageName": "Motor",
+        "Agrs": {
+          "Order": 5,
+          "MarginX": 0.29,
+          "MarginY": 0.39,
+          "foreground2backgroundRatio": 0.9,
+          "ObjectH": 9
+        }
+      },
+      {
+        "StageName": "None",
+        "Agrs": {
+          "Order": 0,
+          "MarginX": 0.29,
+          "MarginY": 0.39,
+          "foreground2backgroundRatio": 0.9,
+          "ObjectH": 9
+        }
+      }
+    ]
+  }
+ ]
+}
