@@ -6,7 +6,7 @@ This is a sophisticated app crafted with Unity, leveraging the power of the Vufo
 
 ![](Assets/image.png)
 
-## 
+## <div align="center">Demo video</div>
 
 [![](Assets/demo.png)](https://youtu.be/8E-iWqX4ilo)
 
