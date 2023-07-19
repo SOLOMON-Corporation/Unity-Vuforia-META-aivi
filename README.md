@@ -19,7 +19,11 @@ This is a sophisticated app crafted with Unity, leveraging the power of the Vufo
 
 [![](Assets/demo-3dprinter.png)](https://youtu.be/i2dUODLAvq4)
 
+## <div align="center">License</div>
+
+"Unity: Vuforia Engine with META-aivi" is released under the [AGPL-3.0 License](./License).
 
 ## <div align="center">Contact</div>
 
-For demo and free trial requests, please contact us [here](https://www.solomon.com.tw/en/home/). 
+For demo and free trial requests, please contact us [here](https://www.solomon.com.tw/en/home/).
+
