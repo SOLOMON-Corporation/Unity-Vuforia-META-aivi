@@ -15,6 +15,8 @@ This is a sophisticated app crafted with Unity, leveraging the power of the Vufo
 
 ### <div align="center">3D Printer</div>
 
+- Source code: [here](./3D_printer)
+
 [![](Assets/demo-3dprinter.png)](https://youtu.be/i2dUODLAvq4)
 
 
