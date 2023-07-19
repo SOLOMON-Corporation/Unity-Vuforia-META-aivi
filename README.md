@@ -7,8 +7,15 @@ This is a sophisticated app crafted with Unity, leveraging the power of the Vufo
 ![](Assets/image.png)
 
 ## <div align="center">Demo video</div>
+### <div align="center">Machine</div>
 
-[![](Assets/demo.png)](https://youtu.be/8E-iWqX4ilo)
+- Source code: [here](./Machine)
+
+[![](Assets/demo-machine.png)](https://youtu.be/8E-iWqX4ilo)
+
+### <div align="center">3D Printer</div>
+
+[![](Assets/demo-3dprinter.png)](https://youtu.be/i2dUODLAvq4)
 
 
 ## <div align="center">Contact</div>
