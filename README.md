@@ -1,6 +1,6 @@
 # <div align="center">Unity: Vuforia Engine with META-aivi</div>
 
-[![License](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](./License)
+[![License](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](./LICENSE)
 
 This is a sophisticated app crafted with Unity, leveraging the power of the Vuforia Engine for seamless AR integration, while harnessing the advanced AI capabilities of SOLOMON META-aivi for robust verification.
 
