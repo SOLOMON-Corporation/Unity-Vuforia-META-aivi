@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="ender_3d_printer" motionHint="adaptive" trackingMode="car" optimizeTrackingFor="default"/>
+
+</Tracking>
+
+<Assembly name="ender_3d_printers_assembly" assemblyId="e879cb6fbaa748509aa0d655a548c997">
+<Part name="ender_3d_printer" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="-0.011915 0.160506 1.14611" rotation="AD: 0.999929 -0.0472287 0.264488 199.569" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0001" translation="-0.0268203 0.161498 1.12916" rotation="AD: 0.999751 0.0667916 -0.361203 199.693" trained="no">
+
+</EntryPoint>
+<EntryPoint name="GuideView_0002" translation="-0.0424457 0.162323 1.09647" rotation="AD: 1 0.00100908 -0.00565099 200.248" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>
